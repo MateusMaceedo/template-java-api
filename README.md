@@ -1,6 +1,6 @@
-# Livro Base de Automação de Teste - Backend API
+# Baseado no Livro Base de Automação de Teste - Backend API
 
-Esta é a API REST backend para o projeto de automação de teste do livro Base de Automação de Teste.
+>Esta é a API REST backend para o projeto de automação de teste do livro Base de Automação de Teste.
 
 A aplicação tem caráter educativo. Ela foi desenvolvida em Spring Boot e possui um banco de dados em memória Derby.
 
@@ -11,8 +11,8 @@ Após, siga os passos abaixo.
 
 ### Via linha de comando
 
-1. Instalar o Apache Maven e configurá-lo no seu PATH
-2. Executar, no Terminal ou Prompt de Comando `mvn exec:java`
+>1. <Instalar o Apache Maven e configurá-lo no seu PATH>
+>2. <Executar, no Terminal ou Prompt de Comando `mvn exec:java`>
 
 Para saber que tudo ocorreu com sucesso as últimas linhas do terminal deve ser identicas a estas:
 
