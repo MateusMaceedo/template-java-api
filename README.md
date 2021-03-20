@@ -6,6 +6,8 @@
 
 A aplicação tem caráter educativo. Ela foi desenvolvida em Spring Boot e possui um banco de dados em memória Derby.
 
+<img class="lazy-load preload-me is-loaded" src="https://4infra.com.br/wp-content/uploads/2018/09/why-learn-java-750x375.jpg" width="750" height="375" title="java" alt="java" srcset="https://4infra.com.br/wp-content/uploads/2018/09/why-learn-java-750x375.jpg 750w">
+
 ## Como executar a aplicação
 
 Primeiro você precisará executar o clone deste repositório. 
