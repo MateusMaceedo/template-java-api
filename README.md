@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/9e/09/75/9e097552-0efd-6565-e673-644b0cdc9cf2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" width="420" height="80">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Logo-banco-inter.svg" width="1448" height="522">
  <br>
  Inter Java Developer
 </h1>
