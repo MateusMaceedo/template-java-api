@@ -6,28 +6,28 @@
 
 ## Contéudo abordado 
 
-- Boas-vindas ao Avanade Angular Developer
+- Boas-vindas ao Bootcamp Inter Java Developer
 - Bem-vindo à DIO
-- Lógica de programação essencial
-- Aprenda o que são Estrutura de Dados e Algoritmo
+- Linux: A introdução ao sistema operacional
+- Schell sript: Manipulando Arquivos
 - Introdução e criação de websites com HTML5 e CSS3
-- Programação para Internet com JavaScript
 - Introdução ao Git e ao GitHub
-- Recriando a Interface do Netflix
-- Recriando a página inicial do Instagram
-- JavaScript ES6 essencial
-- Como resolver seus primeiros desafios de código
-- Solução de problemas básicos com JavaScript
-- Desenvolvimento avançado com JavaScript ES6
-- Praticando programção com JavaScript
+- Aprenda o que são Estrutura de Dados e Algoritmo
+- Desenvolvimento básico em java
+- Solucionando problemas básicos em Java
+- Implementando Collections e Streams com Java
+- Desenvolvimento avançado em Java
+- Praticando programação Java
+- Introdução ao Framework Spring Boot
+- Aprender a aplicar testes com Java
+- Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja
+- Conceitos e melhores práticas com bancos de dados PostgreSQL
+- Trabalhando com Bando de Dados utilizando JDBC e JPA 
+- Criando seu gerenciamento de super heróis da Marvel e da DC em uma API reativa com Spring Boot 
+- Desafios Aritméticos em Java
 - Fundamentos de Arquiquetura de Sistemas
-- Introdução ao Angular 8
-- Técnicas avançadas em Angular 8
-- Aplicação avançadas com Angular
-- Desenvolvimento SPA cpm Angular
-- A arquiquetura de componentes e a gestão da complexidade no front-end
-- Implementando testes automatizado usuando Cypress em uma aplicação Angular
-- Criando projeto para consultar a previsão do tempo via API
-- Conceitos avançados de performance e otimização usando Angular
-- Desenvolvimento de problemas avançados em JavaScript
+- Arquiquetura de Sistemas Avançado
+- Criando uma solução de e-commerce com microsservicos em Java
+- Rodando sua aplicação Java no Kubenetes. Do deploy ao debug sem medo!
+- Criando um sistema de orçamento, utilizando CQRS, Quarkus, Kafka e deploy no EKS
 
