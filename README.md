@@ -18,7 +18,7 @@ Os comandos acima criam o projeto e depois, dentro da pasta, adicionam o pacote 
 Se você está no Visual Studio, pode ir no Nuget Package Manager e procurar por ClosedXML.
 
 #### Construindo classes e metodos para ler a Planilha em C#
-<img src="https://github.com/MateusMaceedo/robo-welcome-kit/blob/main/img/code.png?raw=true" width="1300" height="1012">
+<img src="https://github.com/MateusMaceedo/robo-welcome-kit/blob/main/img/code.png?raw=true" width="1100" height="1002">
 
 <a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
  <img style="border-radius:50%" width="100px; "src="https://avatars.githubusercontent.com/u/63172367?s=460&u=11fd26ea8a7f5663d7707d7ef254e4f8bfca1b05&v=4"/>
