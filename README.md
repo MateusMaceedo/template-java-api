@@ -18,31 +18,7 @@ Os comandos acima criam o projeto e depois, dentro da pasta, adicionam o pacote 
 Se você está no Visual Studio, pode ir no Nuget Package Manager e procurar por ClosedXML.
 
 #### Construindo classes e metodos para ler a Planilha em C#
-```
-using System;
-using System.Linq;
-using ClosedXML.Excel;
-
-namespace LerPlanilhaExcel
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-           var xls = new XLWorkbook(@"C:\Temp\ExemploExcel.xlsx");
-           var planilha = xls.Worksheets.First(w => w.Name == "Planilha1");
-            var totalLinhas = planilha.Rows().Count();
-            // primeira linha é o cabecalho
-            for (int l = 2; l <= totalLinhas; l++)
-            {
-                var codigo = int.Parse(planilha.Cell($"A{l}").Value.ToString());
-                var descricao  = planilha.Cell($"B{l}").Value.ToString();
-                var preco = decimal.Parse(planilha.Cell($"C{l}").Value.ToString());
-                Console.WriteLine($"{codigo} - {descricao} - {preco}");
-            }
-        }
-    }
-}
+<img src="https://github.com/MateusMaceedo/robo-welcome-kit/blob/main/img/code.png?raw=true" width="806.08" height="469">
 ```
 
 <a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
